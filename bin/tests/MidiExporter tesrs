@@ -1,0 +1,7 @@
+Run MidiExporterTest.java and ensure there are no errors.
+
+Run Song.java
+It should play back a bunch of block chords (I-IV-vi-V-I, in C major).
+Open the output.mid
+It should contain the contents of those chords, with each note in a different
+track.
